@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibTerrainGen", "TerrainGen.vcproj", "{1896C30D-5E6D-40C2-958B-07F6F883FD6A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TerrainGenTest", "..\..\..\TerrainGenTest\TerrainGenTest.vcproj", "{D0C62DC3-7A71-4528-8922-74B561D44984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1896C30D-5E6D-40C2-958B-07F6F883FD6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1896C30D-5E6D-40C2-958B-07F6F883FD6A}.Debug|Win32.Build.0 = Debug|Win32
+		{1896C30D-5E6D-40C2-958B-07F6F883FD6A}.Release|Win32.ActiveCfg = Release|Win32
+		{1896C30D-5E6D-40C2-958B-07F6F883FD6A}.Release|Win32.Build.0 = Release|Win32
+		{D0C62DC3-7A71-4528-8922-74B561D44984}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0C62DC3-7A71-4528-8922-74B561D44984}.Debug|Win32.Build.0 = Debug|Win32
+		{D0C62DC3-7A71-4528-8922-74B561D44984}.Release|Win32.ActiveCfg = Release|Win32
+		{D0C62DC3-7A71-4528-8922-74B561D44984}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
